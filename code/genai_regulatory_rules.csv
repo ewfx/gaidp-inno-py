@@ -1,0 +1,51 @@
+Rule_ID,Regulatory_Rule
+1,"Transactions exceeding $10,000 require AML reporting."
+2,More than five large withdrawals in 24 hours trigger review.
+3,Accounts with negative balances for 30+ days flagged for risk.
+4,Transactions from high-risk countries require additional verification.
+5,Sudden high withdrawals in dormant accounts require scrutiny.
+6,Minimum account balance violations for 3 consecutive months flagged.
+7,"Frequent cash deposits of just under $10,000 may indicate structuring."
+8,Unusual transaction frequency compared to past 6 months triggers review.
+9,Accounts with repeated chargebacks marked for fraud risk.
+10,High-value international transactions must match declared income.
+11,Multiple failed login attempts trigger account lockdown.
+12,New accounts making large transactions within the first 30 days require review.
+13,"ATM withdrawals exceeding $5,000 in a day require additional verification."
+14,Frequent international wire transfers to tax havens flagged for review.
+15,Large cash deposits followed by immediate transfers raise money laundering suspicion.
+16,Mismatch between declared business revenue and transaction volume requires scrutiny.
+17,Inconsistent salary deposits compared to employment records trigger review.
+18,Rapid movement of funds between multiple accounts can indicate layering.
+19,Deposits followed by quick cash withdrawals could indicate money laundering.
+20,Unusual transaction patterns compared to peer group norms require investigation.
+21,Loan payments inconsistent with income sources flagged for potential fraud.
+22,Frequent round-dollar transactions may indicate suspicious activity.
+23,Accounts with zero transactions for a year making sudden large withdrawals require review.
+24,Transfers between accounts without a clear purpose may indicate layering.
+25,Repeated wire transfers to the same recipient in small amounts require monitoring.
+26,Frequent transfers between business and personal accounts require additional review.
+27,Accounts linked to multiple suspicious transactions may be escalated for investigation.
+28,Multiple online purchases in foreign currencies within a short period flagged for review.
+29,Unusually high gambling-related transactions require additional scrutiny.
+30,Unverified accounts making large transfers should be blocked pending verification.
+31,Frequent large cash withdrawals without clear justification trigger risk alerts.
+32,Multiple accounts registered under the same identity may indicate synthetic fraud.
+33,"Transactions with cryptocurrency exchanges exceeding $5,000 require additional scrutiny."
+34,Business accounts making frequent personal transactions require review.
+35,Loan repayments significantly exceeding declared income may indicate money laundering.
+36,High-frequency transactions within a short period may indicate fraud.
+37,Multiple chargebacks from the same merchant could indicate merchant fraud.
+38,Newly opened accounts receiving large incoming transfers require additional verification.
+39,Transactions involving sanctioned countries must be automatically blocked.
+40,Unusual ATM withdrawal locations compared to user history require review.
+41,Frequent high-value checks deposited in different branches require monitoring.
+42,Large transfers to non-verified PayPal accounts flagged for fraud review.
+43,Accounts receiving deposits from multiple unrelated sources require investigation.
+44,Multiple customers using the same device for online banking may indicate account takeover.
+45,Businesses transacting outside their registered industry profile require monitoring.
+46,Frequent changes in registered contact details may indicate synthetic identity fraud.
+47,Transactions involving high-risk merchants should be escalated for compliance review.
+48,High-value transactions outside business hours should be flagged for review.
+49,Repeated rejections of transactions due to insufficient funds may indicate financial distress.
+50,Unusual direct debits from charities may indicate fraudulent activity.
