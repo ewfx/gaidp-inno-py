@@ -57,4 +57,4 @@ Faced Challenges to get a proper sample customer transaction data
 ## 👥 Team
 - **Your Name** - Veena Marlla
 - **Teammate 2** - Arun Karingali
-- ** Teammate 3** - V, Kavin
+- **Teammate 3** - V, Kavin
