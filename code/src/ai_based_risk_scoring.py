@@ -6,9 +6,9 @@ from sklearn.preprocessing import LabelEncoder
 import os
 
 # File paths
-DATA_PATH = "../data/customer_transactions_10k.csv"
-RULES_PATH = "../data/genai_regulatory_rules.csv"
-OUTPUT_PATH = "../data/final_risk_compliance_results.csv"
+DATA_PATH = "../customer_transactions_10k.csv"
+RULES_PATH = "../genai_regulatory_rules.csv"
+OUTPUT_PATH = "../final_risk_compliance_results.csv"
 
 def process_risk_compliance():
     print("🚀 Starting AI-Powered Risk & Compliance Analysis...")
